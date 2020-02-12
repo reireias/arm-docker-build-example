@@ -1,0 +1,8 @@
+{
+  "name": "arm-docker-build-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/reireias/arm-docker-build-example.git",
+  "author": "reireias <reireias@gmail.com>",
+  "license": "MIT"
+}
